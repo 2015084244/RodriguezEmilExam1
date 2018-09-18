@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RodriguezEmilExam1</string>
+    <string name="title1">Review</string>
+    <string name="title2">Note 2</string>
+    <string name="title3">Do not forget</string>
+    <string name="title4">Photography</string>
+    <string name="desc1">JAVA, C, PHP</string>
+    <string name="desc2">Description2</string>
+    <string name="desc3">Regform, id, index card</string>
+    <string name="desc4">Nature</string>
+    <string name="app1">Personal notes</string>
+    <string name="app2">Office notes</string>
+    <string name="app3">Public notes</string>
+</resources>
